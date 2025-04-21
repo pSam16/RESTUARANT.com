@@ -1,1 +1,1 @@
-# RESTUARANT.com
+# restaurant.com
